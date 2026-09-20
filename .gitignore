@@ -4,13 +4,16 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Segredos locais ###
+.env
+
 ### IntelliJ IDEA ###
 .idea/
 *.iws
 *.iml
 *.ipr
 
-### Eclipse ###
+### Eclipse / STS ###
 .apt_generated
 .classpath
 .factorypath
